@@ -1,0 +1,11 @@
+C:\Users\zhang ziyang\Desktop\UFL\ISOM\ISM 6236\XuZhangAssignment\asg4\courseRegister\bin\Debug\courseRegister.dll
+C:\Users\zhang ziyang\Desktop\UFL\ISOM\ISM 6236\XuZhangAssignment\asg4\courseRegister\bin\Debug\courseRegister.pdb
+C:\Users\zhang ziyang\Desktop\UFL\ISOM\ISM 6236\XuZhangAssignment\asg4\courseRegister\obj\Debug\courseRegister.csprojResolveAssemblyReference.cache
+C:\Users\zhang ziyang\Desktop\UFL\ISOM\ISM 6236\XuZhangAssignment\asg4\courseRegister\obj\Debug\courseRegister.csproj.CoreCompileInputs.cache
+C:\Users\zhang ziyang\Desktop\UFL\ISOM\ISM 6236\XuZhangAssignment\asg4\courseRegister\obj\Debug\courseRegister.dll
+C:\Users\zhang ziyang\Desktop\UFL\ISOM\ISM 6236\XuZhangAssignment\asg4\courseRegister\obj\Debug\courseRegister.pdb
+C:\Users\Ricky\Desktop\XuZhangAssignment\asg4\courseRegister\bin\Debug\courseRegister.dll
+C:\Users\Ricky\Desktop\XuZhangAssignment\asg4\courseRegister\bin\Debug\courseRegister.pdb
+C:\Users\Ricky\Desktop\XuZhangAssignment\asg4\courseRegister\obj\Debug\courseRegister.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\Desktop\XuZhangAssignment\asg4\courseRegister\obj\Debug\courseRegister.dll
+C:\Users\Ricky\Desktop\XuZhangAssignment\asg4\courseRegister\obj\Debug\courseRegister.pdb
