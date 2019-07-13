@@ -1,0 +1,10 @@
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\obj\Debug\WCFService.csprojAssemblyReference.cache
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\bin\courseRegister.dll
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\bin\courseRegister.pdb
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\obj\Debug\WCFService.csproj.CopyComplete
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Ricky\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
